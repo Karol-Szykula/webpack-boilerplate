@@ -16,3 +16,4 @@ heading.textContent = example()
 
 const app = document.querySelector('#root')
 app.append(logo, heading)
+console.log('test');
